@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "abracadabrax",
+  "owner": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "metadata": {
+    "description": "AI image, video and song generation for Claude, via the Abracadabrax MCP servers.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "abracadabrax-image-video",
+      "source": "./abracadabrax-image-video",
+      "description": "Create AI images and videos from a text prompt: review model, aspect ratio and duration in a panel, then generate them in your Abracadabrax account.",
+      "category": "media",
+      "keywords": ["image-generation", "video-generation", "text-to-image", "text-to-video", "ai-video", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#media",
+      "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-song-maker",
+      "source": "./abracadabrax-song-maker",
+      "description": "Turn an idea into a finished song: write the lyrics with Claude, set style, vocals and length in a panel, then render the track in your Abracadabrax account.",
+      "category": "media",
+      "keywords": ["music-generation", "song", "lyrics", "ai-music", "instrumental", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#song",
+      "license": "MIT"
+    }
+  ]
+}
