@@ -3,7 +3,7 @@
   "name": "abracadabrax-image-video",
   "displayName": "Abracadabrax Image & Video",
   "version": "1.0.0",
-  "description": "Create AI images and videos from a text prompt: review model, aspect ratio and duration in a panel, then generate them in your Abracadabrax account.",
+  "description": "Turn a text prompt into an AI image or video with Abracadabrax: pick model, format and length with Claude, then render it with your Abracadabrax credits.",
   "author": {
     "name": "Abracadabrax",
     "url": "https://abracadabrax.app"
@@ -12,11 +12,11 @@
   "repository": "https://github.com/abracadabrax-app/claude-plugins",
   "license": "MIT",
   "keywords": [
-    "image-generation",
-    "video-generation",
-    "text-to-image",
-    "text-to-video",
+    "ai-image",
     "ai-video",
+    "image-generator",
+    "video-generator",
+    "prompt-to-video",
     "mcp"
   ],
   "icon": ".claude-plugin/icon.png",

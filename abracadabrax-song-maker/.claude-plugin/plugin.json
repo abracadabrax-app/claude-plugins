@@ -3,7 +3,7 @@
   "name": "abracadabrax-song-maker",
   "displayName": "Abracadabrax Song Maker",
   "version": "1.0.0",
-  "description": "Turn an idea into a finished song: write the lyrics with Claude, set style, vocals and length in a panel, then render the track in your Abracadabrax account.",
+  "description": "Write lyrics with Claude and have Abracadabrax sing and produce them, or build an instrumental, rendered with your Abracadabrax credits.",
   "author": {
     "name": "Abracadabrax",
     "url": "https://abracadabrax.app"
@@ -12,10 +12,10 @@
   "repository": "https://github.com/abracadabrax-app/claude-plugins",
   "license": "MIT",
   "keywords": [
-    "music-generation",
-    "song",
-    "lyrics",
     "ai-music",
+    "song-generator",
+    "lyrics",
+    "music-production",
     "instrumental",
     "mcp"
   ],

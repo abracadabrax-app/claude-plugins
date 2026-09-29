@@ -6,25 +6,39 @@
     "url": "https://abracadabrax.app"
   },
   "metadata": {
-    "description": "AI image, video and song generation for Claude, via the Abracadabrax MCP servers.",
+    "description": "Abracadabrax media plugins for Claude: images, videos and songs rendered in your Abracadabrax account.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "abracadabrax-image-video",
       "source": "./abracadabrax-image-video",
-      "description": "Create AI images and videos from a text prompt: review model, aspect ratio and duration in a panel, then generate them in your Abracadabrax account.",
+      "description": "Turn a text prompt into an AI image or video with Abracadabrax: pick model, format and length with Claude, then render it with your Abracadabrax credits.",
       "category": "media",
-      "keywords": ["image-generation", "video-generation", "text-to-image", "text-to-video", "ai-video", "mcp"],
+      "keywords": [
+        "ai-image",
+        "ai-video",
+        "image-generator",
+        "video-generator",
+        "prompt-to-video",
+        "mcp"
+      ],
       "homepage": "https://abracadabrax.app/mcp#media",
       "license": "MIT"
     },
     {
       "name": "abracadabrax-song-maker",
       "source": "./abracadabrax-song-maker",
-      "description": "Turn an idea into a finished song: write the lyrics with Claude, set style, vocals and length in a panel, then render the track in your Abracadabrax account.",
+      "description": "Write lyrics with Claude and have Abracadabrax sing and produce them, or build an instrumental, rendered with your Abracadabrax credits.",
       "category": "media",
-      "keywords": ["music-generation", "song", "lyrics", "ai-music", "instrumental", "mcp"],
+      "keywords": [
+        "ai-music",
+        "song-generator",
+        "lyrics",
+        "music-production",
+        "instrumental",
+        "mcp"
+      ],
       "homepage": "https://abracadabrax.app/mcp#song",
       "license": "MIT"
     }
