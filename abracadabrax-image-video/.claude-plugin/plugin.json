@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "abracadabrax-image-video",
-  "displayName": "Abracadabrax Image & Video",
-  "version": "1.0.0",
-  "description": "Turn a text prompt into an AI image or video with Abracadabrax: pick model, format and length with Claude, then render it with your Abracadabrax credits.",
+  "displayName": "Abracadabrax AI Image & Video Generator",
+  "version": "1.0.1",
+  "description": "AI image generator and AI video generator: turn a text prompt into an image or a video, pick model, format and length with Claude, and render it with your Abracadabrax credits.",
   "author": {
     "name": "Abracadabrax",
     "url": "https://abracadabrax.app"
@@ -16,6 +16,10 @@
     "ai-video",
     "image-generator",
     "video-generator",
+    "ai-image-generator",
+    "ai-video-generator",
+    "text-to-image",
+    "text-to-video",
     "prompt-to-video",
     "mcp"
   ],

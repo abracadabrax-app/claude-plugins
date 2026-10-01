@@ -4,8 +4,8 @@ Two plugins that let Claude create media with Abracadabrax. Each one talks to a 
 
 | Plugin | Creates | Install |
 |---|---|---|
-| [Abracadabrax Image & Video](abracadabrax-image-video) | Images and short videos from a prompt | `/plugin install abracadabrax-image-video@abracadabrax` |
-| [Abracadabrax Song Maker](abracadabrax-song-maker) | Songs with vocals, or instrumentals, from lyrics written with Claude | `/plugin install abracadabrax-song-maker@abracadabrax` |
+| [Abracadabrax AI Image & Video Generator](abracadabrax-image-video) | Images and short videos from a prompt | `/plugin install abracadabrax-image-video@abracadabrax` |
+| [Abracadabrax AI Song & Music Maker](abracadabrax-song-maker) | Songs with vocals, or instrumentals, from lyrics written with Claude | `/plugin install abracadabrax-song-maker@abracadabrax` |
 
 Add this marketplace in Claude Code first:
 

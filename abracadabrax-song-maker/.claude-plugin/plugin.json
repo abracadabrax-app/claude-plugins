@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "abracadabrax-song-maker",
-  "displayName": "Abracadabrax Song Maker",
-  "version": "1.0.0",
-  "description": "Write lyrics with Claude and have Abracadabrax sing and produce them, or build an instrumental, rendered with your Abracadabrax credits.",
+  "displayName": "Abracadabrax AI Song & Music Maker",
+  "version": "1.0.1",
+  "description": "AI song and music maker: write lyrics with Claude and have Abracadabrax sing and produce the track, or create an instrumental, rendered with your Abracadabrax credits.",
   "author": {
     "name": "Abracadabrax",
     "url": "https://abracadabrax.app"
@@ -13,7 +13,11 @@
   "license": "MIT",
   "keywords": [
     "ai-music",
+    "ai-song",
     "song-generator",
+    "music-generator",
+    "song-maker",
+    "music-maker",
     "lyrics",
     "music-production",
     "instrumental",

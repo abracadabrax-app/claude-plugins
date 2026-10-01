@@ -1,4 +1,4 @@
-# Abracadabrax Image & Video
+# Abracadabrax AI Image & Video Generator
 
 Turn a text prompt into an AI image or a short AI video without leaving Claude. You set the model, the format and the length together with Claude, and Abracadabrax renders the result with the credits of your own Abracadabrax account.
 

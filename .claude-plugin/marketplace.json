@@ -13,32 +13,18 @@
     {
       "name": "abracadabrax-image-video",
       "source": "./abracadabrax-image-video",
-      "description": "Turn a text prompt into an AI image or video with Abracadabrax: pick model, format and length with Claude, then render it with your Abracadabrax credits.",
+      "description": "AI image generator and AI video generator: turn a text prompt into an image or a video, pick model, format and length with Claude, and render it with your Abracadabrax credits.",
       "category": "media",
-      "keywords": [
-        "ai-image",
-        "ai-video",
-        "image-generator",
-        "video-generator",
-        "prompt-to-video",
-        "mcp"
-      ],
+      "keywords": ["ai-image", "ai-video", "image-generator", "video-generator", "ai-image-generator", "ai-video-generator", "text-to-image", "text-to-video", "prompt-to-video", "mcp"],
       "homepage": "https://abracadabrax.app/mcp#media",
       "license": "MIT"
     },
     {
       "name": "abracadabrax-song-maker",
       "source": "./abracadabrax-song-maker",
-      "description": "Write lyrics with Claude and have Abracadabrax sing and produce them, or build an instrumental, rendered with your Abracadabrax credits.",
+      "description": "AI song and music maker: write lyrics with Claude and have Abracadabrax sing and produce the track, or create an instrumental, rendered with your Abracadabrax credits.",
       "category": "media",
-      "keywords": [
-        "ai-music",
-        "song-generator",
-        "lyrics",
-        "music-production",
-        "instrumental",
-        "mcp"
-      ],
+      "keywords": ["ai-music", "ai-song", "song-generator", "music-generator", "song-maker", "music-maker", "lyrics", "music-production", "instrumental", "mcp"],
       "homepage": "https://abracadabrax.app/mcp#song",
       "license": "MIT"
     }

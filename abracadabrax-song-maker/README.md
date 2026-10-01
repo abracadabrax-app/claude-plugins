@@ -1,4 +1,4 @@
-# Abracadabrax Song Maker
+# Abracadabrax AI Song & Music Maker
 
 From an idea to a finished track in one conversation. Claude writes the lyrics with you, and Abracadabrax sings and produces them, or builds an instrumental, using the credits of your own Abracadabrax account.
 
