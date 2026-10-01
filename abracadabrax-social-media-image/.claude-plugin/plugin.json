@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-social-media-image",
+  "displayName": "Abracadabrax Social Media Image & Post Maker",
+  "version": "1.0.0",
+  "description": "Social media image maker: describe your post and Claude prepares an image sized for Instagram, Facebook, LinkedIn, X, Pinterest or a vertical story, with optional text and brand colors, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#social-media-image",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "instagram-post",
+    "social-media-post",
+    "instagram-story",
+    "pinterest-pin",
+    "linkedin-post",
+    "post-maker",
+    "content-creation",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#social-media-image"
+}

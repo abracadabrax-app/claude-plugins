@@ -1,11 +1,18 @@
 # Abracadabrax plugins for Claude
 
-Two plugins that let Claude create media with Abracadabrax. Each one talks to a hosted Abracadabrax MCP server and shows a panel where you check the settings and the credit price before anything is rendered.
+Plugins that let Claude create media with Abracadabrax. Each one talks to a hosted Abracadabrax MCP server and shows a panel where you check the settings and the credit price before anything is rendered.
 
 | Plugin | Creates | Install |
 |---|---|---|
 | [Abracadabrax AI Image & Video Generator](abracadabrax-image-video) | Images and short videos from a prompt | `/plugin install abracadabrax-image-video@abracadabrax` |
 | [Abracadabrax AI Song & Music Maker](abracadabrax-song-maker) | Songs with vocals, or instrumentals, from lyrics written with Claude | `/plugin install abracadabrax-song-maker@abracadabrax` |
+| [Abracadabrax AI Video Generator](abracadabrax-ai-video-generator) | Short video clips from a scene description, for YouTube, TikTok, Reels or Shorts | `/plugin install abracadabrax-ai-video-generator@abracadabrax` |
+| [Abracadabrax YouTube Thumbnail Maker](abracadabrax-youtube-thumbnail-maker) | 16:9 YouTube thumbnails with a readable headline | `/plugin install abracadabrax-youtube-thumbnail-maker@abracadabrax` |
+| [Abracadabrax AI Product Photo Generator](abracadabrax-product-photo-generator) | Product photos: packshots, lifestyle scenes, flat lays, hero banners | `/plugin install abracadabrax-product-photo-generator@abracadabrax` |
+| [Abracadabrax Social Media Image & Post Maker](abracadabrax-social-media-image) | Post, story and pin images sized for each platform | `/plugin install abracadabrax-social-media-image@abracadabrax` |
+| [Abracadabrax Poster & Flyer Maker](abracadabrax-poster-flyer-maker) | Posters and flyers with the headline and details on the design | `/plugin install abracadabrax-poster-flyer-maker@abracadabrax` |
+| [Abracadabrax AI Background Music Generator](abracadabrax-background-music-generator) | Instrumental background music for videos, podcasts, ads and games | `/plugin install abracadabrax-background-music-generator@abracadabrax` |
+| [Abracadabrax Birthday Song Maker](abracadabrax-birthday-song-maker) | Personalized birthday songs with the person's name and your lyrics | `/plugin install abracadabrax-birthday-song-maker@abracadabrax` |
 
 Add this marketplace in Claude Code first:
 

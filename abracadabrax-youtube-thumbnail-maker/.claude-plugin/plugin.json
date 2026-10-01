@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-youtube-thumbnail-maker",
+  "displayName": "Abracadabrax YouTube Thumbnail Maker",
+  "version": "1.0.0",
+  "description": "YouTube thumbnail maker: tell Claude what the video is about and the headline you want, and Abracadabrax designs a bold 16:9 thumbnail with readable text, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#youtube-thumbnail-maker",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "youtube-thumbnail",
+    "thumbnail-maker",
+    "thumbnail-generator",
+    "youtube",
+    "ai-thumbnail",
+    "video-thumbnail",
+    "youtube-cover",
+    "creator-tools",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#youtube-thumbnail-maker"
+}

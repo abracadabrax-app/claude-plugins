@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-product-photo-generator",
+  "displayName": "Abracadabrax AI Product Photo Generator",
+  "version": "1.0.0",
+  "description": "AI product photo generator: describe your product and Claude prepares a white-background packshot, a lifestyle scene, a flat lay, a hero banner or a close-up for your store or ads, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#product-photo-generator",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "product-photo",
+    "product-photography",
+    "ai-product-photo",
+    "ecommerce",
+    "packshot",
+    "lifestyle-photo",
+    "product-image",
+    "shopify",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#product-photo-generator"
+}

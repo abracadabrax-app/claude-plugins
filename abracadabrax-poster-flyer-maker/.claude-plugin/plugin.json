@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-poster-flyer-maker",
+  "displayName": "Abracadabrax Poster & Flyer Maker",
+  "version": "1.0.0",
+  "description": "Poster and flyer maker: give Claude the headline and the details of your event, sale or announcement, and Abracadabrax designs a print-ready poster or flyer with the text on it, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#poster-flyer-maker",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "poster-maker",
+    "flyer-maker",
+    "event-poster",
+    "flyer-design",
+    "poster-design",
+    "sale-flyer",
+    "concert-poster",
+    "graphic-design",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#poster-flyer-maker"
+}

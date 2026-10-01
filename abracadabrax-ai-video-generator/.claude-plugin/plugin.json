@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-ai-video-generator",
+  "displayName": "Abracadabrax AI Video Generator",
+  "version": "1.0.0",
+  "description": "AI video generator: describe a scene and Claude prepares a short clip for YouTube, TikTok, Reels or Shorts, with style, format, length and video model (Kling, Seedance, Sora, Veo), rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#ai-video-generator",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "text-to-video",
+    "ai-video-generator",
+    "video-maker",
+    "short-video",
+    "ai-video",
+    "tiktok-video",
+    "reels",
+    "youtube-shorts",
+    "video-generator",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#ai-video-generator"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "abracadabrax-poster-flyer-maker": {
+      "type": "http",
+      "url": "https://abracadabrax.app/api/claude/poster-flyer-maker/mcp"
+    }
+  }
+}

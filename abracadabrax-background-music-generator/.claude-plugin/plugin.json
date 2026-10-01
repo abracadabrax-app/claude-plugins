@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-background-music-generator",
+  "displayName": "Abracadabrax AI Background Music Generator",
+  "version": "1.0.0",
+  "description": "AI background music generator: describe the mood and what it is for, and Claude prepares an instrumental track for a video, podcast, ad, game, stream or study session, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#background-music-generator",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "background-music",
+    "ai-music",
+    "music-generator",
+    "royalty-free-music",
+    "instrumental",
+    "podcast-music",
+    "video-music",
+    "lofi",
+    "stock-music",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#background-music-generator"
+}

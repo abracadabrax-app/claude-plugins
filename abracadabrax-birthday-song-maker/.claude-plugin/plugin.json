@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-birthday-song-maker",
+  "displayName": "Abracadabrax Birthday Song Maker",
+  "version": "1.0.0",
+  "description": "Birthday song maker: tell Claude who the song is for and a few memories, write the lyrics together, and Abracadabrax sings and produces a personalized birthday song, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#birthday-song-maker",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "birthday-song",
+    "happy-birthday",
+    "personalized-song",
+    "custom-song",
+    "birthday-gift",
+    "song-maker",
+    "ai-song",
+    "ai-music",
+    "lyrics",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#birthday-song-maker"
+}

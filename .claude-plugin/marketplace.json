@@ -27,6 +27,69 @@
       "keywords": ["ai-music", "ai-song", "song-generator", "music-generator", "song-maker", "music-maker", "lyrics", "music-production", "instrumental", "mcp"],
       "homepage": "https://abracadabrax.app/mcp#song",
       "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-ai-video-generator",
+      "source": "./abracadabrax-ai-video-generator",
+      "description": "AI video generator: describe a scene and Claude prepares a short clip for YouTube, TikTok, Reels or Shorts, with style, format, length and video model (Kling, Seedance, Sora, Veo), rendered with your Abracadabrax credits.",
+      "category": "media",
+      "keywords": ["text-to-video", "ai-video-generator", "video-maker", "short-video", "ai-video", "tiktok-video", "reels", "youtube-shorts", "video-generator", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#ai-video-generator",
+      "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-background-music-generator",
+      "source": "./abracadabrax-background-music-generator",
+      "description": "AI background music generator: describe the mood and what it is for, and Claude prepares an instrumental track for a video, podcast, ad, game, stream or study session, rendered with your Abracadabrax credits.",
+      "category": "media",
+      "keywords": ["background-music", "ai-music", "music-generator", "royalty-free-music", "instrumental", "podcast-music", "video-music", "lofi", "stock-music", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#background-music-generator",
+      "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-birthday-song-maker",
+      "source": "./abracadabrax-birthday-song-maker",
+      "description": "Birthday song maker: tell Claude who the song is for and a few memories, write the lyrics together, and Abracadabrax sings and produces a personalized birthday song, rendered with your Abracadabrax credits.",
+      "category": "media",
+      "keywords": ["birthday-song", "happy-birthday", "personalized-song", "custom-song", "birthday-gift", "song-maker", "ai-song", "ai-music", "lyrics", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#birthday-song-maker",
+      "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-poster-flyer-maker",
+      "source": "./abracadabrax-poster-flyer-maker",
+      "description": "Poster and flyer maker: give Claude the headline and the details of your event, sale or announcement, and Abracadabrax designs a print-ready poster or flyer with the text on it, rendered with your Abracadabrax credits.",
+      "category": "media",
+      "keywords": ["poster-maker", "flyer-maker", "event-poster", "flyer-design", "poster-design", "sale-flyer", "concert-poster", "graphic-design", "ai-image", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#poster-flyer-maker",
+      "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-product-photo-generator",
+      "source": "./abracadabrax-product-photo-generator",
+      "description": "AI product photo generator: describe your product and Claude prepares a white-background packshot, a lifestyle scene, a flat lay, a hero banner or a close-up for your store or ads, rendered with your Abracadabrax credits.",
+      "category": "media",
+      "keywords": ["product-photo", "product-photography", "ai-product-photo", "ecommerce", "packshot", "lifestyle-photo", "product-image", "shopify", "ai-image", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#product-photo-generator",
+      "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-social-media-image",
+      "source": "./abracadabrax-social-media-image",
+      "description": "Social media image maker: describe your post and Claude prepares an image sized for Instagram, Facebook, LinkedIn, X, Pinterest or a vertical story, with optional text and brand colors, rendered with your Abracadabrax credits.",
+      "category": "media",
+      "keywords": ["social-media", "instagram-post", "social-media-post", "instagram-story", "pinterest-pin", "linkedin-post", "post-maker", "content-creation", "ai-image", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#social-media-image",
+      "license": "MIT"
+    },
+    {
+      "name": "abracadabrax-youtube-thumbnail-maker",
+      "source": "./abracadabrax-youtube-thumbnail-maker",
+      "description": "YouTube thumbnail maker: tell Claude what the video is about and the headline you want, and Abracadabrax designs a bold 16:9 thumbnail with readable text, rendered with your Abracadabrax credits.",
+      "category": "media",
+      "keywords": ["youtube-thumbnail", "thumbnail-maker", "thumbnail-generator", "youtube", "ai-thumbnail", "video-thumbnail", "youtube-cover", "creator-tools", "ai-image", "mcp"],
+      "homepage": "https://abracadabrax.app/mcp#youtube-thumbnail-maker",
+      "license": "MIT"
     }
   ]
 }
