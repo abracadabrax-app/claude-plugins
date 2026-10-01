@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "abracadabrax-song-maker",
   "displayName": "Abracadabrax AI Song & Music Maker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI song and music maker: write lyrics with Claude and have Abracadabrax sing and produce the track, or create an instrumental, rendered with your Abracadabrax credits.",
   "author": {
     "name": "Abracadabrax",
