@@ -13,6 +13,10 @@ Plugins that let Claude create media with Abracadabrax. Each one talks to a host
 | [Abracadabrax Poster & Flyer Maker](abracadabrax-poster-flyer-maker) | Posters and flyers with the headline and details on the design | `/plugin install abracadabrax-poster-flyer-maker@abracadabrax` |
 | [Abracadabrax AI Background Music Generator](abracadabrax-background-music-generator) | Instrumental background music for videos, podcasts, ads and games | `/plugin install abracadabrax-background-music-generator@abracadabrax` |
 | [Abracadabrax Birthday Song Maker](abracadabrax-birthday-song-maker) | Personalized birthday songs with the person's name and your lyrics | `/plugin install abracadabrax-birthday-song-maker@abracadabrax` |
+| [Abracadabrax Album Cover Art Maker](abracadabrax-album-cover-maker) | Square cover art for albums, singles, EPs, mixtapes and playlists | `/plugin install abracadabrax-album-cover-maker@abracadabrax` |
+| [Abracadabrax Coloring Page Maker](abracadabrax-coloring-page-maker) | Printable black-and-white coloring pages for toddlers, kids and adults | `/plugin install abracadabrax-coloring-page-maker@abracadabrax` |
+| [Abracadabrax Greeting Card & Invitation Maker](abracadabrax-greeting-card-maker) | Personal greeting cards and invitations with your message printed on them | `/plugin install abracadabrax-greeting-card-maker@abracadabrax` |
+| [Abracadabrax Podcast Intro & Jingle Maker](abracadabrax-podcast-jingle-maker) | Short podcast and channel intros: instrumental or a sung tagline with the show's name | `/plugin install abracadabrax-podcast-jingle-maker@abracadabrax` |
 
 Add this marketplace in Claude Code first:
 

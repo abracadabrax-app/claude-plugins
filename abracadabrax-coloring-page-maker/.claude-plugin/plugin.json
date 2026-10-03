@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-coloring-page-maker",
+  "displayName": "Abracadabrax Coloring Page Maker",
+  "version": "1.0.0",
+  "description": "Coloring page maker: tell Claude what to draw and who will color it, and Abracadabrax draws a printable black-and-white coloring page, simple for toddlers, detailed for kids or intricate for adults, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#coloring-page-maker",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "coloring-page",
+    "coloring-pages",
+    "coloring-book",
+    "printable",
+    "line-art",
+    "kids-activities",
+    "adult-coloring",
+    "mandala",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#coloring-page-maker"
+}

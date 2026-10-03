@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-album-cover-maker",
+  "displayName": "Abracadabrax Album Cover Art Maker",
+  "version": "1.0.0",
+  "description": "Album cover art maker: give Claude the title, the artist, the genre and the mood, and Abracadabrax designs square cover art for an album, single, EP, mixtape or playlist, with the title on it or without text, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#album-cover-maker",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "album-cover",
+    "album-art",
+    "cover-art",
+    "single-cover",
+    "ep-cover",
+    "mixtape-cover",
+    "playlist-cover",
+    "music-artwork",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#album-cover-maker"
+}

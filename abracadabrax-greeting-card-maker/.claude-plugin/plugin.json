@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-greeting-card-maker",
+  "displayName": "Abracadabrax Greeting Card & Invitation Maker",
+  "version": "1.0.0",
+  "description": "Greeting card and invitation maker: tell Claude the occasion, who the card is for and your message, and Abracadabrax designs a personal card or invitation for a birthday, wedding, anniversary, baby shower, holiday or thank-you, with your words printed on it, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#greeting-card-maker",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "greeting-card",
+    "birthday-card",
+    "invitation-maker",
+    "wedding-invitation",
+    "anniversary-card",
+    "baby-shower-invitation",
+    "holiday-card",
+    "thank-you-card",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#greeting-card-maker"
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "abracadabrax-podcast-jingle-maker",
+  "displayName": "Abracadabrax Podcast Intro & Jingle Maker",
+  "version": "1.0.0",
+  "description": "Podcast intro and jingle maker: give Claude the name of your show, its mood and genre, and Abracadabrax produces a 30 or 60 second intro or outro jingle, instrumental or with a sung tagline that says the show's name, rendered with your Abracadabrax credits.",
+  "author": {
+    "name": "Abracadabrax",
+    "url": "https://abracadabrax.app"
+  },
+  "homepage": "https://abracadabrax.app/mcp#podcast-jingle-maker",
+  "repository": "https://github.com/abracadabrax-app/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "podcast-intro",
+    "podcast-jingle",
+    "intro-music",
+    "outro-music",
+    "jingle-maker",
+    "theme-music",
+    "audio-branding",
+    "youtube-intro",
+    "ai-music",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://abracadabrax.app/privacy",
+  "termsOfServiceUrl": "https://abracadabrax.app/terms",
+  "supportUrl": "https://abracadabrax.app/support",
+  "documentationUrl": "https://abracadabrax.app/mcp#podcast-jingle-maker"
+}
